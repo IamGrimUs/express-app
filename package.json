@@ -1,0 +1,14 @@
+{
+  "name": "express-server",
+  "version": "1.0.0",
+  "description": "simple server",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "r_dbl_l",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

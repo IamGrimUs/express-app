@@ -1,0 +1,8 @@
+{
+  "title": "Battle One",
+  "startDate": "11-25-20",
+  "endDate": "12-25-20",
+  "videos": ["videoOne", "videoTwo"],
+  "attacker": "UserOne",
+  "defender": "UserTwo"
+}
